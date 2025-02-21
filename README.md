@@ -151,8 +151,8 @@
 
 ---
 
-<h2>Видео-демонстрация</h2>
-<video width="640" height="360" controls>
-  <source src="https://drive.google.com/file/d/1hj6y_jZEOCBfGzAu9SiCaCItdNEwA2mc/view?usp=drive_link" type="video/mp4">
-  Ваш браузер не поддерживает видео.
-</video>
+## 🎥 Пример работы программы
+
+<p align="center">
+  <img src="https://github.com/stafGitHub/Cft/blob/main/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B.gif?raw=true" alt="Пример работы программы" width="600" />
+</p>
