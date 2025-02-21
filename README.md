@@ -151,4 +151,8 @@
 
 ---
 
-
+<h2>Видео-демонстрация</h2>
+<video width="640" height="360" controls>
+  <source src="https://drive.google.com/file/d/1hj6y_jZEOCBfGzAu9SiCaCItdNEwA2mc/view?usp=drive_link" type="video/mp4">
+  Ваш браузер не поддерживает видео.
+</video>
