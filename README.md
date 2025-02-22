@@ -1,7 +1,7 @@
 <h1 align="center">
   Привет!
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-  Это моя утилита для работы с файлами 🚀
+  Cft_latest - это утилита для работы с файлами 🚀
 </h1>
 
 <h3 align="center">
